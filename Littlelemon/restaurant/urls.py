@@ -4,4 +4,8 @@ from . import views
   
 urlpatterns = [ 
     path('', views.index, name='index'), 
+    path('menu/',views.MenuView.as_view()),
+    path('menu/<int:pk>', views.SingleMenuItemView.as_view()),
+    #path('booking/',views.BookingView.as_view()),
+    #path('booking/<int:pk>', views.SingleBookingItemView.as_view()),
 ]
