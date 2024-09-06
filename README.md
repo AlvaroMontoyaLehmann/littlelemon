@@ -1,2 +1,0 @@
-# littlelemon
-Coursera course

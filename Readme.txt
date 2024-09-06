@@ -8,7 +8,7 @@ https://github.com/AlvaroMontoyaLehmann/littlelemon
 
 Does the application connect the backend to a MySQL database?
 
-Yeah! settings.py field
+Yeah! settings.py fiel
 
 Are the menu and table booking APIs implemented?
 
